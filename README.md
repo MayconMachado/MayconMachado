@@ -1,7 +1,6 @@
 ### Hey, I'm Maycon Machado Soares
 
-- 🔭 I’m currently working as Linux Sysadmin 
-- 🌱 I’m currently learning Cloud, DevOps, Automation, Kubernetes and others.
+- 🔭 I’m currently working as Devops Engineer 
 - 📫 How to reach me: 
  <h2 dir="auto"></h2>
 </a><div dir="auto"><a href="https://github.com/MayconMachado"> 
